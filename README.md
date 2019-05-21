@@ -2,7 +2,7 @@
 
 # About
 An application which displays the number of total
-unique visitors on the web page with backend as ruby and frontend as React.
+unique visitors on the web page with backend as ruby and frontend as React.Added screenshot
 
 # Setup
 
@@ -25,7 +25,5 @@ rails s # to start the server
 
 
 
-```
 
-## Screenshots
-![ScreenShot](https://{www.pexels.com/photo/nature-red-love-romantic-67636/})
+
