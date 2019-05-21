@@ -28,7 +28,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'react-rails'
 gem 'webpacker'
-gem 'rails_12factor', group: :production
 
 
 ruby "2.5.1"
